@@ -17,27 +17,15 @@ function App() {
           <Col style={{ margin: "2rem" }}><h1>{greetingTime(new Date())}!</h1></Col>
         </Row>
         <Row>
-
           <Col lg={6} >
             <WeatherCard />
             <NewsCard />
           </Col>
           <Col lg={6} >
-
             <TasksCard />
-
           </Col>
-
-
-
-
-
         </Row>
-
-
       </Container>
-
-
     </div>
   );
 }
