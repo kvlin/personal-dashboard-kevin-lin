@@ -25,4 +25,4 @@ To get started with running MyDashboardX locally, follow these steps:
 - [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage): used to store the task data in the local browser.
 
 ## Screenshot
-![Homepage](./public/images/homepage.png)
+![Homepage](./public/images/homepage.PNG)
