@@ -1,0 +1,25 @@
+#tasksCard {
+    max-width: 50em;
+    margin: 1rem auto;
+    width: auto;
+    height: auto;
+    opacity: 0.9;
+    padding: 1.5rem;
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+#taskInput {
+    padding: 1rem 0;
+}
+
+#AddTaskBtn {
+    background: var(--secondary-color);
+    border: rgba(129, 124, 124, 0.2)
+}
+
+.taskItem {
+    word-break: break-all;
+}

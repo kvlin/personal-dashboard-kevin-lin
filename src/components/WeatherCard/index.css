@@ -1,0 +1,19 @@
+#weatherCard {
+    max-width: 50em;
+    margin: 1rem auto;
+    padding: 1.5rem 1.5rem 0.5rem 1.5rem;
+    background-image: linear-gradient(135deg, #85c9e4a8 0%, #ffffff 100%) !important;
+
+}
+
+#location {
+    text-align: left;
+}
+
+#weatherIcon {
+    margin: 0 auto;
+}
+
+#weatherLocation {
+    padding: 0.5rem 0 0 1rem;
+}
