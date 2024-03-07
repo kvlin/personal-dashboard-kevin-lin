@@ -23,3 +23,6 @@ To get started with running MyDashboardX locally, follow these steps:
 - [Lodash](https://lodash.com/): a popular and well-tested utility library. I mainly used this tool to perform array and object operations with minimal coding, especially when equivalent JavaScript built-in functions are not available.
 - [Dotenv](https://www.npmjs.com/package/dotenv): used to save the API keys in a separate .env file instead of hardcoding them in the script files for security and easier management.
 - [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage): used to store the task data in the local browser.
+
+## Screenshot
+![Homepage](./public/images/homepage.png)
